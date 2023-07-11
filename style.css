@@ -1,0 +1,230 @@
+#d1{
+    background-color: rgb(200, 205, 205);
+    font-size: 50px;
+    margin-left: 0px;
+    height: 100px;
+    
+    width: 700px;
+    padding-left: 350px;
+    border-radius: 20px;
+    position: relative;
+    top: -70px;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#bg{
+    background-image: url(./images/cover.jpg);
+}
+#first{
+    font-weight: bold;
+    color:rgb(33, 182, 137);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+    font-weight: bold;
+
+}
+#l{
+    background-color: rgba(252, 252, 252, 0.966);
+    /* border: 1px solid; */
+    height: 1200px;
+    width: 1050px;
+    margin-left: 250px;
+    padding-top: 60px;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    box-shadow: 0px 0px 10px 1px;
+    
+}
+#last{
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 530px;
+    position: relative ;
+    top:-30px;
+
+}
+#firstname{
+    
+    width: 295px;
+    margin-left: 530px;
+    height: 30px;
+    position: relative ;
+    top:-25px;
+}
+#lastname{
+    
+    width: 295px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-60px;
+}
+#email{
+    font-weight: bold;
+    color:rgb(33, 182, 137);
+    font-size: 25px;
+    margin-left: 80px;
+    position: relative ;
+    top:-50px;
+}
+#mail{
+    
+    height: 30px;
+    width: 450px;
+    margin-left: 80px;
+    position: relative ;
+    top:-35px;
+}
+#pass{
+    font-weight: bold;
+    color:rgb(33, 182, 137);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+}
+
+#pass1{
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 530px;
+    position: relative ;
+    top:-30px;
+}
+#password{
+    
+    width: 295px;
+    margin-left: 530px;
+    height: 30px;
+    position: relative ;
+    top:-60px;
+}
+#password1{
+    
+    width: 295px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-25px;
+    
+}
+#gen{
+    font-weight: bold;
+    color:rgb(33, 182, 137);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-45px;
+}
+#hob{
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-75px;
+}
+#radio1{
+    
+    font-size: 20px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-80px;
+}
+#radio2{
+    
+    font-size: 20px;
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-110px;
+}
+#income{
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top: -100px;
+}
+#range{
+    font-weight: bold;
+    color:rgb(33, 182, 137);
+    font-size: 25px;
+    
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-130px;
+}
+.cont2{
+    font-weight: bold;
+    color: rgb(33, 182, 137); 
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-130px
+}
+.cont1{
+
+    display: flex;
+    justify-content: center;
+    margin-left:-150px;
+    position: relative;
+    top:-150px
+}
+#bio{
+
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    margin-left: 80px;
+    position: relative;
+    top:-150px 
+}
+#submit{
+    font-weight: 300;
+    color: rgba(252, 252, 252, 0.966);
+    width: 200px;
+    font-size: 50px;
+    margin-left: 800px;
+    position: relative ;
+    top: -100px;
+    display: flex;
+    background-color:  rgb(33, 182, 137);
+    box-shadow: 0px 0px 10px 1px;
+    border-radius: 10px;
+    
+}
+
+#age{
+    font-weight: bold;
+    color: rgb(33, 182, 137);
+    font-size: 25px;
+    margin-left: 530px;
+    position: relative;
+    top: -170px;
+}
+#form{
+    
+    border: 2px;
+    border-radius: 100px;
+}
+#bg{
+    background-color:rgba(65, 99, 212, 0.733);
+}
